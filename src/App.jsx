@@ -9,8 +9,13 @@ function App() {
   return (
     <>
     <div className='app-container'>
-      <h1>I am Sowjanya</h1>
-      <h1>From section 211</h1>
+      <h1>👋 Welcome to My React Project – S211
+🚀 CI/CD & Cloud DevOps in Action
+This is a lightweight React homepage, seamlessly built with Vite and automatically deployed using GitHub Actions.
+
+🔗 Hosted via GitHub Pages
+⚙️ CI/CD powered by GitHub Actions
+⚡ Built for speed, reliability, and simplicity</h1>
       </div>
     </>
   )
